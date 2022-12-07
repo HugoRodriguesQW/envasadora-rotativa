@@ -16,13 +16,13 @@ Protótipo virtual de projeto usando a Unity Engine 2018.
 
 
 ## Requisitos mínimos
-Processador: AMD Ryzen 5 2500u 2.0GHz 4n/8t
-Memória: 2Gb Ram;
-Vídeo: AMD Radeon Vega 8 Mobile;
-Disco: 100mb;
+- Processador: AMD Ryzen 5 2500u 2.0GHz 4n/8t;
+- Memória: 2Gb Ram;
+- Vídeo: AMD Radeon Vega 8 Mobile;
+- Disco: 100mb;
 
 ## Requisitos Recomendados
-Processador: AMD Ryzen 5 2500u 2.0GHz 4n/8t
-Memória: 4Gb Ram;
-Vídeo: AMD Radeon Vega 7;
-Disco: 100mb;
+- Processador: AMD Ryzen 5 2500u 2.0GHz 4n/8t
+- Memória: 4Gb Ram;
+- Vídeo: AMD Radeon Vega 7;
+- Disco: 100mb;
